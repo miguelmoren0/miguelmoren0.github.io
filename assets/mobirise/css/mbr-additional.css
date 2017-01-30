@@ -1,8 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-
 
 
 
@@ -428,11 +426,11 @@ h6,
   color: #ffffff;
 }
 #ext_menu-0 .link {
-  font-size: 0.8rem;
+  font-size: 0.75rem;
 }
 #ext_menu-0 .dropdown-item,
 #ext_menu-0 .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 0.812rem;
 }
 #ext_menu-0 .link:hover,
 #ext_menu-0 .dropdown-item:hover,
@@ -471,13 +469,16 @@ h6,
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #90a878!important;
 }
-#msg-box5-e H3 {
-  font-family: 'Titillium Web', sans-serif;
+#msg-box5-6 P {
+  color: #ffffff;
 }
-#features4-d .card-subtitle {
+#msg-box5-6 H3 {
+  color: #ffffff;
+}
+#features4-7 .card-subtitle {
   color: #bcbcbc;
 }
-#features4-d .iconbox {
+#features4-7 .iconbox {
   background-color: #f2f2f2;
   border-color: #f2f2f2;
 }
