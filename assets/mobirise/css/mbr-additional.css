@@ -497,10 +497,6 @@ h6,
 #features4-b P {
   color: #c1c1c1;
 }
-#msg-box8-z .mbr-section-title,
-#msg-box8-z p {
-  color: #fff;
-}
 #features4-m .card-subtitle {
   color: #bcbcbc;
 }
@@ -510,6 +506,14 @@ h6,
 }
 #features4-m P {
   color: #ffffff;
+}
+#msg-box8-14 .mbr-section-title,
+#msg-box8-14 p {
+  color: #fff;
+}
+#social-buttons2-15 .mbr-section-title,
+#social-buttons2-15 .btn-social {
+  color: #232323;
 }
 #contacts1-a STRONG {
   color: #ffffff;
