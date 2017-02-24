@@ -497,6 +497,10 @@ h6,
 #features4-b P {
   color: #c1c1c1;
 }
+#msg-box8-z .mbr-section-title,
+#msg-box8-z p {
+  color: #fff;
+}
 #features4-m .card-subtitle {
   color: #bcbcbc;
 }
