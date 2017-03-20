@@ -579,6 +579,13 @@ h6,
 #ext_menu-3 .dropdown-item[aria-expanded="true"] {
   color: #90a878!important;
 }
+#slider2-1g .mbr-section-title,
+#slider2-1g .mbr-section-lead {
+  color: #fff;
+}
+#slider2-1g H2 {
+  color: #000000;
+}
 #contacts1-a STRONG {
   color: #ffffff;
 }
