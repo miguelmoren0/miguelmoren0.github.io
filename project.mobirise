@@ -24,7 +24,7 @@
     "noImageResize": "",
     "versionFirst": "3.10.8",
     "uniqCompNum": 55,
-    "versionPublish": "3.10.8",
+    "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -524,8 +524,8 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-14",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
@@ -534,12 +534,12 @@
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": "https://www.youtube.com/embed/CioGmSmzMIw?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/embed/tMAMz3Ntyzc?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
+            "overlayOpacity": "0.2",
+            "overlayColor": "#28324e",
             "showTitle": false,
             "showText": false,
             "showButton": false
