@@ -546,7 +546,7 @@
           },
           "title": "ARTICLE HEADER",
           "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://www.youtube.com/watch?v=IrkMI0sKbpA\" data-toolbar=\"-mbrBtnMove\">Youtube introduction video<br></a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.youtube.com/watch?v=IrkMI0sKbpA\" data-toolbar=\"-mbrBtnMove\">Youtube introduction video<br></a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.youtube.com/watch?v=1lX56IND1eo\" data-toolbar=\"-mbrBtnMove\">Believer Music video</a>"
         },
         {
           "_styles": {
@@ -1004,7 +1004,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/miguel-moreno-14-2000x16160.jpg",
+                "image": "@PROJECT_PATH@/assets/images/miguel-moreno-14-2000x16164.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1079,7 +1079,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/miguel-moreno-record-label-2000x2023-800x809.jpg",
-                "image": "@PROJECT_PATH@/assets/images/miguel-moreno-record-label-2000x20231.jpg",
+                "image": "@PROJECT_PATH@/assets/images/miguel-moreno-record-label-2000x20235.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
